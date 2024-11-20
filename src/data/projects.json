@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Discord Bot",
+    "imageSrc": "projects/bot.png",
+    "description": "Discord bot utilizing the Discord API and Developer Portal.",
+    "skills": ["JDA", "Java"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/KatarinaMantay/MyFirstDiscordBot"
+  },
+  {
+    "title": "Flappy Bird Remake",
+    "imageSrc": "projects/flappybird.png",
+    "description": "Developed a 2D flappy bird game remake using Kaboom.js.",
+    "skills": ["Javascript", "Kaboom"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/KatarinaMantay/MyFirstGame"
+  },
+  {
+    "title": "Platformer Game",
+    "imageSrc": "projects/gamedev.png",
+    "description": "Current WIP, Platformer game with sprites and enemies.",
+    "skills": ["Java", "Gradle"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/KatarinaMantay/GameDevelopment"
+  }
+]
